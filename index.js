@@ -1,4 +1,4 @@
-const arrayVazia = [, 3, , 5, , , , 90];
+//const arrayVazia = [, 3, , 5, , , , 90];
 
 /* console.log(arrayVazia[0]);
  console.log(arrayVazia[1]);
@@ -25,7 +25,7 @@ jantarDeHoje.push('maçã')
 
 console.log(jantarDeHoje) */
 
-console.log(arrayVazia.length);
+/*console.log(arrayVazia.length);
 
 const array5Elementos = [1, 2, 3, 4, 5]
 console.log(`Meu array antes da alteração: ${array5Elementos}`);
@@ -36,4 +36,4 @@ const meuArray = []
 meuArray.push(90)
 meuArray.push(20)
 meuArray.push(60)
-console.log(meuArray);
+console.log(meuArray); */
