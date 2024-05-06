@@ -1,4 +1,4 @@
-const alunos = ['João', 'Juliana', 'Caio', 'Ana'];
+/* const alunos = ['João', 'Juliana', 'Caio', 'Ana'];
 const medias = [10, 8, 7.5, 9];
 
 //              [   ], [    ]
@@ -11,4 +11,17 @@ console.log(
 A nota desta aluna é ${lista[1][1]}.`
 );
 
-console.log(lista[0][3]);
+console.log(lista[0][3]); */
+
+const nomes = ["Ana", "Juliana", "Leonardo"];
+const idades = [30, 35, 28];
+const faculdade = [false, true, true];
+ 
+const funcionarios = [nomes, idades, faculdade];
+
+console.log(
+    `Funcionário(a) ${funcionarios[0][0]}, ${funcionarios[1][0]} anos
+Funcionário(a) ${funcionarios[0][1]}, ${funcionarios[1][1]} anos
+Funcionário(a) ${funcionarios[0][2]}, ${funcionarios[1][2]} anos
+`
+);
