@@ -14,4 +14,4 @@ function somaNotas (nota) {
 
 const media = somasDasNotas / notas.length;
 
-console.log(`A média das notas é ${media}`);
+console.log(`A média das notas é ${media}`); // método forach sempre retorna um undefined
