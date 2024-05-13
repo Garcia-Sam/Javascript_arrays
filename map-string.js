@@ -12,3 +12,9 @@ for (let i = 0; i < nome.length; i++) {
 }
 
 console.log(nomeMaiusculas);
+
+const nomeCurso =  "Fundamentos de JS";
+const nomeDaPlataforma = " Alura";
+
+const nomeCompleto = nomeCurso.concat(nomeDaPlataforma);
+console.log(nomeCompleto);
